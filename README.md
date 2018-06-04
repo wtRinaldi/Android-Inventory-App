@@ -1,8 +1,7 @@
 Inventory App
 ===================================
 
-This app is a generic Android inventory application 
-Used in a Udacity course in the Android Basics Nanodegree by Google.
+This app is a Android inventory application f
 
 Pre-requisites
 --------------
