@@ -1,7 +1,7 @@
-#Android Inventory App
+# Android Inventory App
 ===================================
 
-This app is a Android inventory application f
+This app is a Android inventory application
 
 Pre-requisites
 --------------
